@@ -1,0 +1,1 @@
+export { InputGeneral } from './FormInputs'
